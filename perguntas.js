@@ -24,12 +24,12 @@ criaCartao(
 
 criaCartao(
     'SÉRIE',
-    'Em "Outer Banks qual é o nome do irmão de Sarah?'
+    'Em "Outer Banks qual é o nome do irmão de Sarah?',
     'Rafe Cameron'
 )
 
 criaCartao(
     'DESENHO'
-    'Quem é o melhor amigo do Bob Esponja?)
+    'Quem é o melhor amigo do Bob Esponja?),
     'Patrick Estrela'
 )
