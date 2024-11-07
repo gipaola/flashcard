@@ -21,3 +21,15 @@ criaCartao(
     'Qual o nome do dono dos brinquedos em "Toy Story"?',
     'Andy'
 )
+
+criaCartao(
+    'SÉRIE',
+    'Em "Outer Banks qual é o nome do irmão de Sarah?'
+    'Rafe Cameron'
+)
+
+criaCartao(
+    'DESENHO'
+    'Quem é o melhor amigo do Bob Esponja?)
+    'Patrick Estrela'
+)
