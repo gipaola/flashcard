@@ -29,7 +29,7 @@ criaCartao(
 )
 
 criaCartao(
-    'DESENHO'
+    'DESENHO',
     'Quem é o melhor amigo do Bob Esponja?),
     'Patrick Estrela'
 )
